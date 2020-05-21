@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    height: 670px;
+    margin-top: 0px;
+    background-color: hsl(247, 24%, 93%);
+    text-align: center;
+}
+#test_status {
+    color: hsl(251, 76%, 44%);
+    background-color: hsl(247, 24%, 93%);
+    margin-top: 0px;
+    padding-top: 140px;
+}
+#test { 
+    border: 3px solid hsl(251, 76%, 44%);
+    border-radius: 40px; 
+    padding:40px 40px 40px 40px; 
+    background-color:hsl(247, 24%, 93%); 
+    width:50%;
+    margin: auto;
+}
+button {
+    padding: 10px 27px 10px 27px;
+    background-color: hsl(251, 76%, 44%);
+    color: hsl(247, 24%, 93%);
+    border: none;
+    border-radius: 40px;
+    margin-top: 10px;
+}
